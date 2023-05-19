@@ -25,7 +25,3 @@ Start the client react project
   npm run start
 Come back to project directory
 
-  cd ..
-Start Server using node or nodemon
-
-  node app.js 
